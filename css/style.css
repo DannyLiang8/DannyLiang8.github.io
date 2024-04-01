@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background-color: #ffffff; /* Top Banner */
   overflow-x: hidden;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #8019c8;
+  color: #8019c8; /* IDK */
 }
 
 .heading_container.heading_center {
@@ -106,7 +106,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  color: #000000;
+  color: #000000; /* Eyelight text color */
   font-size: 24px;
   text-transform: uppercase;
 }
@@ -130,8 +130,8 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #ffffff;
-  background-color: #8019c8;
+  color: #ffffff; /* IDK */
+  background-color: #8019c8; /* IDK */
 }
 
 .custom_nav-container .nav_search-btn {
@@ -139,11 +139,11 @@ a:focus {
   height: 35px;
   padding: 0;
   border: none;
-  color: #000000;
+  color: #000000; /* IDK */
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #000000;
+  color: #000000; /* IDK */
 }
 
 .custom_nav-container .navbar-toggler {
@@ -162,7 +162,7 @@ a:focus {
   display: block;
   width: 35px;
   height: 4px;
-  background-color: #000000;
+  background-color: #000000; /* IDK */
   margin: 7px 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -177,7 +177,7 @@ a:focus {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #000000;
+  background-color: #000000;/* IDK */
   top: -10px;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -267,7 +267,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #ffffff;
+  color: #ffffff; /* Trensetting frames text */
 }
 
 .slider_section .detail-box h1 {
@@ -296,8 +296,8 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #19c880;
-  color: #ffffff;
+  background-color: #19c880; /* Contact us button background */
+  color: #ffffff; /* Contact us text */
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -305,14 +305,14 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
-  background-color: #118454;
+  background-color: #118454; /* IDK */
 }
 
 .slider_section .detail-box .btn-box .btn2 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #8019c8;
-  color: #ffffff;
+  background-color: #8019c8; /* About us button background */
+  color: #ffffff; /* about us text */
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;

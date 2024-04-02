@@ -340,7 +340,7 @@ a:focus {
 }
 
 .slider_section .carousel-indicators li {
-  background-color: #ffffff;
+  background-color: #ffffff; /* section dots*/
   width: 15px;
   height: 15px;
   border-radius: 100%;
@@ -350,7 +350,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 23px;
   height: 23px;
-  background-color: #19c880;
+  background-color: #19c880; /* dot indicator */
 }
 
 .slider_bg_box {
@@ -376,7 +376,7 @@ a:focus {
 
 .service_section {
   position: relative;
-  background-color: #f8f8f8;
+  background-color: #f8f8f8; /* Fast delivery  */
 }
 
 .service_section .heading_container h2 {
@@ -410,12 +410,12 @@ a:focus {
 }
 
 .service_section .box .detail-box a {
-  color: #19c880;
+  color: #19c880; /* IDK */
   font-weight: 600;
 }
 
 .service_section .box .detail-box a:hover {
-  color: #8019c8;
+  color: #8019c8; /* IDK */
 }
 
 .service_section .box:hover .img-box img {
@@ -466,7 +466,7 @@ a:focus {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #f6f6f6;
+  background-color: #f6f6f6; /* Werid gray boxes above the text about our shop */
 }
 
 .about_section .img_container .img-box.b1::before {
@@ -502,8 +502,8 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 8px 35px;
-  background-color: #8019c8;
-  color: #ffffff;
+  background-color: #8019c8; /* Read more button background */
+  color: #ffffff; /* read more text */
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -512,11 +512,11 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #541184;
+  background-color: #541184; /* read more hover color */
 }
 
 .product_section {
-  background-color: #f5f5f5;
+  background-color: #f5f5f5; /* Top sale eyeware background */
   margin-bottom: 45px;
 }
 
@@ -529,8 +529,8 @@ a:focus {
 
 .product_section .product_heading h2 {
   padding: 10px 20px;
-  background-color: #19c880;
-  color: #ffffff;
+  background-color: #19c880; /* top sale eyeware background */
+  color: #ffffff; /* top sale text */
   font-weight: bold;
   font-size: 24px;
 }
@@ -563,7 +563,7 @@ a:focus {
 }
 
 .product_section .product_container .box .box-content {
-  background-color: #ffffff;
+  background-color: #ffffff; /* products background */
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -627,8 +627,8 @@ a:focus {
 .product_section .product_container .box .btn-box a {
   display: inline-block;
   padding: 10px 30px;
-  background-color: #8019c8;
-  color: #ffffff;
+  background-color: #8019c8; /* Add to cart button background */
+  color: #ffffff; /* add to cart text */
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -636,7 +636,7 @@ a:focus {
 }
 
 .product_section .product_container .box .btn-box a:hover {
-  background-color: #541184;
+  background-color: #541184; /* product mouse hover color add to cart */
 }
 
 .client_section .box {
@@ -657,7 +657,7 @@ a:focus {
   overflow: hidden;
   margin-right: -65px;
   position: relative;
-  border: 5px solid #19c880;
+  border: 5px solid #19c880; /* celeberty picture ring*/
 }
 
 .client_section .box .img-box img {
@@ -675,14 +675,14 @@ a:focus {
 
 .client_section .box .client_info .client_name h5 {
   font-weight: bold;
-  color: #8019c8;
+  color: #8019c8; /* celeberty name text */
   margin-bottom: 0;
   text-transform: uppercase;
 }
 
 .client_section .box .client_info .client_name h6 {
   margin-bottom: 0;
-  color: #19c880;
+  color: #19c880; /* text under celeberty name */
   font-weight: normal;
   font-size: 14px;
   text-transform: uppercase;
@@ -690,7 +690,7 @@ a:focus {
 
 .client_section .box .client_info i {
   font-size: 24px;
-  color: #8019c8;
+  color: #8019c8; /* quotations top right corner */
 }
 
 .client_section .box p {
@@ -698,7 +698,7 @@ a:focus {
 }
 
 .client_section .box .detail-box {
-  background-color: #ffffff;
+  background-color: #ffffff; /* celeberty text box background */
   padding: 45px 45px 45px 85px;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
@@ -717,7 +717,7 @@ a:focus {
 }
 
 .client_section .carousel-indicators li {
-  background-color: #8019c8;
+  background-color: #8019c8; /* testomony page dots color */
   width: 10px;
   height: 10px;
   border-radius: 100%;
@@ -727,7 +727,7 @@ a:focus {
 .client_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #19c880;
+  background-color: #19c880; /* testomony selection dot color */
 }
 
 .contact_section {
@@ -783,8 +783,8 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 12px 55px;
-  background-color: #8019c8;
-  color: #ffffff;
+  background-color: #8019c8; /* contact page send button background */
+  color: #ffffff; /* send text color */
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -792,7 +792,7 @@ a:focus {
 }
 
 .contact_section .form_container button:hover {
-  background-color: #541184;
+  background-color: #541184; /* color of button when mouse hovered */
 }
 
 .contact_section .map_container {
@@ -820,7 +820,7 @@ a:focus {
 
 .info_section {
   background-color: #0f1521;
-  color: #ffffff;
+  color: #ffffff; /* all of bottom section text colors */
 }
 
 .info_section .info_logo {
@@ -828,7 +828,7 @@ a:focus {
   margin: 0 auto 45px auto;
   padding-bottom: 10px;
   text-align: center;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff; /* underline under handtime */
 }
 
 .info_section .info_logo h2 {
@@ -856,7 +856,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #ffffff;
+  background-color: #ffffff; /* instagram picture background color */
   padding: 15px;
 }
 
@@ -898,8 +898,8 @@ a:focus {
 .info_section .info_form form button {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #8019c8;
-  color: #ffffff;
+  background-color: #8019c8; /* subscribe button color */
+  color: #ffffff; /* subscribe text */
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -910,7 +910,7 @@ a:focus {
 }
 
 .info_section .info_form form button:hover {
-  background-color: #541184;
+  background-color: #541184; /* button mouse hover color */
 }
 
 .info_section .info_form .social_box {
@@ -928,12 +928,12 @@ a:focus {
 /* footer section*/
 .footer_section {
   position: relative;
-  background-color: #ffffff;
+  background-color: #ffffff; /* bottom banner */
   text-align: center;
 }
 
 .footer_section p {
-  color: #000000;
+  color: #000000; /* trademark text color */
   padding: 25px 0;
   margin: 0;
 }

@@ -657,7 +657,7 @@ a:focus {
   overflow: hidden;
   margin-right: -65px;
   position: relative;
-  border: 5px solid #947b70; /* celeberty picture ring*/
+  border: 5px solid #d4bbaf; /* celeberty picture ring*/
 }
 
 .client_section .box .img-box img {
@@ -698,7 +698,7 @@ a:focus {
 }
 
 .client_section .box .detail-box {
-  background-color: #d4bbaf; /* celeberty text box background */
+  background-color: #947b70; /* celeberty text box background */
   padding: 45px 45px 45px 85px;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);

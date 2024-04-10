@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #0c0c0c;
-  background-color: #ffffff; /* Top Banner */
+  color: #ffffff; /* All text color */
+  background-color: #635f7c; /* Top Banner */
   overflow-x: hidden;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #8019c8; /* IDK */
+  color: #ffffff; /* IDK */
 }
 
 .heading_container.heading_center {
@@ -106,7 +106,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  color: #000000; /* Eyelight text color */
+  color: #ffffff; /* Eyelight text color */
   font-size: 24px;
   text-transform: uppercase;
 }
@@ -121,7 +121,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 25px;
-  color: #000000;
+  color: #ffffff; /* Section text color */
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
@@ -139,11 +139,11 @@ a:focus {
   height: 35px;
   padding: 0;
   border: none;
-  color: #000000; /* IDK */
+  color: #ffffff; /* IDK */
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #000000; /* IDK */
+  color: #ffffff; /* IDK */
 }
 
 .custom_nav-container .navbar-toggler {
@@ -162,7 +162,7 @@ a:focus {
   display: block;
   width: 35px;
   height: 4px;
-  background-color: #000000; /* IDK */
+  background-color: #ffffff; /* IDK */
   margin: 7px 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -177,7 +177,7 @@ a:focus {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #000000;/* IDK */
+  background-color: #ffffff;/* IDK */
   top: -10px;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -237,7 +237,7 @@ a:focus {
 
 .user_optio_box a {
   margin-left: 15px;
-  color: #8019c8;
+  color: #ffffff; /* section picking icons below */
 }
 
 /*end header section*/
@@ -296,7 +296,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #19c880; /* Contact us button background */
+  background-color: #635f7c; /* Contact us button background */
   color: #ffffff; /* Contact us text */
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -305,13 +305,13 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
-  background-color: #118454; /* IDK */
+  background-color: #ffffff; /* IDK */
 }
 
 .slider_section .detail-box .btn-box .btn2 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #8019c8; /* About us button background */
+  background-color: #947b70; /* About us button background */
   color: #ffffff; /* about us text */
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -320,7 +320,7 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn2:hover {
-  background-color: #541184;
+  background-color: #ffffff;
 }
 
 .slider_section .img-box img {
@@ -340,7 +340,7 @@ a:focus {
 }
 
 .slider_section .carousel-indicators li {
-  background-color: #ffffff; /* section dots*/
+  background-color: #635f7c; /* section dots*/
   width: 15px;
   height: 15px;
   border-radius: 100%;
@@ -350,7 +350,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 23px;
   height: 23px;
-  background-color: #19c880; /* dot indicator */
+  background-color: #947b70; /* dot indicator */
 }
 
 .slider_bg_box {
@@ -376,7 +376,7 @@ a:focus {
 
 .service_section {
   position: relative;
-  background-color: #f8f8f8; /* Fast delivery  */
+  background-color: #635f7c; /* Fast delivery background */
 }
 
 .service_section .heading_container h2 {
@@ -466,7 +466,7 @@ a:focus {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #f6f6f6; /* Werid gray boxes above the text about our shop */
+  background-color: #635f7c; /* Werid gray boxes above the text about our shop */
 }
 
 .about_section .img_container .img-box.b1::before {
@@ -502,7 +502,7 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 8px 35px;
-  background-color: #8019c8; /* Read more button background */
+  background-color: #947b70; /* Read more button background */
   color: #ffffff; /* read more text */
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -512,11 +512,11 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #541184; /* read more hover color */
+  background-color: #635f7c; /* read more hover color */
 }
 
 .product_section {
-  background-color: #f5f5f5; /* Top sale eyeware background */
+  background-color: #635f7c; /* Top sale eyeware background */
   margin-bottom: 45px;
 }
 
@@ -529,7 +529,7 @@ a:focus {
 
 .product_section .product_heading h2 {
   padding: 10px 20px;
-  background-color: #19c880; /* top sale eyeware background */
+  background-color: #947b70; /* top sale eyeware background */
   color: #ffffff; /* top sale text */
   font-weight: bold;
   font-size: 24px;
@@ -627,7 +627,7 @@ a:focus {
 .product_section .product_container .box .btn-box a {
   display: inline-block;
   padding: 10px 30px;
-  background-color: #8019c8; /* Add to cart button background */
+  background-color: #947b70; /* Add to cart button background */
   color: #ffffff; /* add to cart text */
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -636,7 +636,7 @@ a:focus {
 }
 
 .product_section .product_container .box .btn-box a:hover {
-  background-color: #541184; /* product mouse hover color add to cart */
+  background-color: #635f7c; /* product mouse hover color add to cart */
 }
 
 .client_section .box {
@@ -657,7 +657,7 @@ a:focus {
   overflow: hidden;
   margin-right: -65px;
   position: relative;
-  border: 5px solid #19c880; /* celeberty picture ring*/
+  border: 5px solid #947b70; /* celeberty picture ring*/
 }
 
 .client_section .box .img-box img {
@@ -675,14 +675,14 @@ a:focus {
 
 .client_section .box .client_info .client_name h5 {
   font-weight: bold;
-  color: #8019c8; /* celeberty name text */
+  color: #ffffff; /* celeberty name text */
   margin-bottom: 0;
   text-transform: uppercase;
 }
 
 .client_section .box .client_info .client_name h6 {
   margin-bottom: 0;
-  color: #19c880; /* text under celeberty name */
+  color: #ffffff; /* text under celeberty name */
   font-weight: normal;
   font-size: 14px;
   text-transform: uppercase;
@@ -690,7 +690,7 @@ a:focus {
 
 .client_section .box .client_info i {
   font-size: 24px;
-  color: #8019c8; /* quotations top right corner */
+  color: #ffffff; /* quotations top right corner */
 }
 
 .client_section .box p {
@@ -698,7 +698,7 @@ a:focus {
 }
 
 .client_section .box .detail-box {
-  background-color: #ffffff; /* celeberty text box background */
+  background-color: #d4bbaf; /* celeberty text box background */
   padding: 45px 45px 45px 85px;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
@@ -717,7 +717,7 @@ a:focus {
 }
 
 .client_section .carousel-indicators li {
-  background-color: #8019c8; /* testomony page dots color */
+  background-color: #ad93b4; /* testomony page dots color */
   width: 10px;
   height: 10px;
   border-radius: 100%;
@@ -727,7 +727,7 @@ a:focus {
 .client_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #19c880; /* testomony selection dot color */
+  background-color: #947b70; /* testomony selection dot color */
 }
 
 .contact_section {
@@ -783,7 +783,7 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 12px 55px;
-  background-color: #8019c8; /* contact page send button background */
+  background-color: #947b70; /* contact page send button background */
   color: #ffffff; /* send text color */
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -792,7 +792,7 @@ a:focus {
 }
 
 .contact_section .form_container button:hover {
-  background-color: #541184; /* color of button when mouse hovered */
+  background-color: #635f7c; /* color of button when mouse hovered */
 }
 
 .contact_section .map_container {
@@ -819,7 +819,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #0f1521;
+  background-color: #947b70;
   color: #ffffff; /* all of bottom section text colors */
 }
 
@@ -898,7 +898,7 @@ a:focus {
 .info_section .info_form form button {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #8019c8; /* subscribe button color */
+  background-color: #635f7c; /* subscribe button color */
   color: #ffffff; /* subscribe text */
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -910,7 +910,7 @@ a:focus {
 }
 
 .info_section .info_form form button:hover {
-  background-color: #541184; /* button mouse hover color */
+  background-color: #947b70; /* button mouse hover color */
 }
 
 .info_section .info_form .social_box {

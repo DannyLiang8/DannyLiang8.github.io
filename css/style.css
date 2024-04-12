@@ -106,7 +106,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  color: #ffffff; /* Eyelight text color */
+  color: #d4b2a2; /* Eyelight text color */
   font-size: 24px;
   text-transform: uppercase;
 }
@@ -121,7 +121,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 25px;
-  color: #ffffff; /* Section text color */
+  color: #d4b2a2; /* Section text color */
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;

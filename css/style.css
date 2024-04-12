@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #ffffff; /* All text color */
+  color: #d4b2a2; /* All text color */
   background-color: #635f7c; /* Top Banner */
   overflow-x: hidden;
 }
@@ -516,7 +516,7 @@ a:focus {
 }
 
 .product_section {
-  background-color: #635f7c; /* Top sale eyeware background */
+  background-color: #918bb6; /* Top sale eyeware background */
   margin-bottom: 45px;
 }
 
@@ -698,7 +698,7 @@ a:focus {
 }
 
 .client_section .box .detail-box {
-  background-color: #947b70; /* celeberty text box background */
+  background-color: #69493c; /* celeberty text box background */
   padding: 45px 45px 45px 85px;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
